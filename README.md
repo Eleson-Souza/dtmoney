@@ -1,5 +1,5 @@
 ## Descrição
-Aplicação para controle financeiro, desenvolvida com os estudos e aprendizados da Trilha de ReactJS do Ignite da Rocketseat.
+Aplicação para controle financeiro, onde é possível cadastrar receitas e despezas, visualizar a listagem e verificar o saldo total entre as saídas e entradas. Foi desenvolvida com os estudos e aprendizados da Trilha de ReactJS do Ignite da Rocketseat.
 
 ## 🚀 Tecnologias e ferramentas
 - ReactJS
