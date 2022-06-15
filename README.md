@@ -3,8 +3,6 @@ Aplicação para controle financeiro, desenvolvida com os estudos e aprendizados
 
 ## 🚀 Tecnologias e ferramentas
 - ReactJS
-- HTML
-- CSS
 - TypeScript
 - Mirage JS
 - Axios
